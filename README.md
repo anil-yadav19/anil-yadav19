@@ -1,5 +1,6 @@
 <h1 align="center">Hi 👋, I'm Anil Kumar Yadav</h1>
-<h3 align="center">🌐 Full Stack Developer | Crafting end-to-end web applications with front-end, back-end, and database expertise</h3>
+<h3 align="center">🌐 Full Stack Developer 
+  <pre>Crafting end-to-end web applications with front-end, back-end, and database expertise</h3></pre> Crafting end-to-end web applications with front-end, back-end, and database expertise</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=anil-yadav19&label=Profile%20views&color=0e75b6&style=flat" alt="anil-yadav19" /> </p>
 
